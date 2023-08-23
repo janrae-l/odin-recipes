@@ -1,22 +1,43 @@
-body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+* {
+    color: rgb(4, 4, 94);
+    font-family: "Brush Script MT", "Lucida Handwriting";
+}
+
+.container .first-para {
+    color: rgb(3, 3, 3);
+    font-size: 20px;   
 }
 
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
 
 .photo {
     height: auto;
-    width: 900px;
-    
+    width: 900px;  
 }
 
 .caption {
+    color: rgb(107, 104, 104);
     font-size: 16px;
 }
 
+.spaghetti-link {
+    color: rgb(190, 14, 14);
+}
+
+.lumpia-link {
+    color: rgb(182, 134, 14);
+}
+
+.chicken-adobo-link {
+    color: brown;
+}
+
 .back-top {
+    color: rgb(4, 4, 94);
     font-size: 17px;
 }
+
+
+
