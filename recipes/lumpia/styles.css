@@ -1,0 +1,35 @@
+* {
+    font-family: "Brush Script MT", "Lucida Handwriting";
+    background-color: rgb(243, 236, 176);
+}
+
+h1 {
+    color: rgb(182, 134, 14);
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 900px;
+}
+
+p {
+    font-size: 26px;
+}
+
+ul {
+    font-size: 22px;
+}
+
+ol {
+    font-size: 22px;
+}
+
+.buttons {
+    font-size: 17px;
+    color: rgb(4, 4, 94);
+}
+
+.heads {
+    color: rgb(182, 134, 14);
+}
