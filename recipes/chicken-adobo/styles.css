@@ -1,0 +1,23 @@
+* {
+    font-family: "Brush Script MT", "Lucida Handwriting";
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+    background-color: rgb(245, 245, 142);
+}
+
+.chicken-img {
+    height: auto;
+    width: 900px;
+}
+
+.buttons {
+    color: rgb(4, 4, 94);
+    font-size: 17px;
+}
+
+.heads {
+    color: brown;
+}
