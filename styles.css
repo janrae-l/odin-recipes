@@ -1,0 +1,22 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.photo {
+    height: auto;
+    width: 900px;
+    
+}
+
+.caption {
+    font-size: 16px;
+}
+
+.back-top {
+    font-size: 17px;
+}
