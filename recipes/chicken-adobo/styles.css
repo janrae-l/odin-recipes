@@ -8,6 +8,18 @@ h1 {
     text-align: center;
 }
 
+p {
+    font-size: 26px;
+}
+
+ul {
+    font-size: 22px;
+}
+
+ol {
+    font-size: 22px;
+}
+
 .chicken-img {
     height: auto;
     width: 900px;
