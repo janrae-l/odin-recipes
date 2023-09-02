@@ -1,11 +1,13 @@
 * {
     font-family: "Brush Script MT", "Lucida Handwriting";
     background-color: rgb(243, 206, 176);
+
 }
 
 h1 {
     text-align: center;
     color: rgb(190, 14, 14);
+   
 }
 
 p {
@@ -23,6 +25,7 @@ ol {
 img {
     height: auto;
     width: 900px;
+ 
 }
 
 .buttons {
