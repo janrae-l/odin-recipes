@@ -1,7 +1,6 @@
 * {
     color: rgb(4, 4, 94);
     font-family: "Brush Script MT", "Lucida Handwriting";
-    background-color: floralwhite;
 }
 
 body.page-body {
@@ -17,25 +16,23 @@ div.container {
 }
 
 p.first-para {
-    margin: 10px 0;
+    margin: 20px 0;
 }
 
 .container .first-para {
     color: rgb(3, 3, 3);
-    font-size: 26px; 
+    font-size: 24px; 
 }
-
-
 
 h1 {
     text-align: center;
-    margin: 50px;
+    margin: 35px;
 }
 
 ul {
     font-size: 22px;
     margin: 10px 20px;
-    margin-bottom: 40px;
+    margin-bottom: 25px;
     padding: 10px;
 }
 
@@ -50,6 +47,7 @@ ul {
 
 .caption {
     color: rgb(107, 104, 104);
+    font-style: italic;
     text-align: center;
     font-size: 16px;
     margin-left: 50px;
@@ -59,7 +57,7 @@ ul {
 }
 
 li {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .spaghetti-link {
@@ -80,7 +78,7 @@ li {
 .back-top {
     color: rgb(4, 4, 94);
     font-size: 17px;
-    
+    margin-left: 40px;
 }
 
 
