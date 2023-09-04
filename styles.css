@@ -2,18 +2,30 @@
     color: rgb(4, 4, 94);
     font-family: "Brush Script MT", "Lucida Handwriting";
     background-color: floralwhite;
-    margin: 0px 60px;
+}
+
+body.page-body {
+    margin: 0 200px;
+    padding: 0 50px;
 }
 
 div.container {
     padding: 10px;
-    margin: 20px 30px;
+    margin-top: 10px;
+    margin-left:  30px;
+    margin-right: 30px;
+}
+
+p.first-para {
+    margin: 10px 0;
 }
 
 .container .first-para {
     color: rgb(3, 3, 3);
     font-size: 26px; 
 }
+
+
 
 h1 {
     text-align: center;
@@ -29,7 +41,7 @@ ul {
 
 .photo {
     height: auto;
-    width: 900px;
+    width: 75%;
     display: block;
     margin-bottom: 10px; 
     margin-left: auto;
@@ -38,27 +50,37 @@ ul {
 
 .caption {
     color: rgb(107, 104, 104);
+    text-align: center;
     font-size: 16px;
-    padding-left: 50px;
-    margin-bottom: 45px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+    padding: 7px;
 
+}
+
+li {
+    margin-bottom: 10px;
 }
 
 .spaghetti-link {
     color: rgb(190, 14, 14);
+    margin-bottom: 10px;
 }
 
 .lumpia-link {
     color: rgb(182, 134, 14);
+    
 }
 
 .chicken-adobo-link {
     color: brown;
+    
 }
 
 .back-top {
     color: rgb(4, 4, 94);
     font-size: 17px;
+    
 }
 
 
