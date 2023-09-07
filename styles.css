@@ -76,9 +76,13 @@ li {
 }
 
 .back-top {
-    color: rgb(4, 4, 94);
+    background-color: rgb(245, 209, 5);
+    color: white;
     font-size: 17px;
+    padding: 8px;
+    text-decoration: none;
     margin-left: 40px;
+    margin-bottom: 40px;
 }
 
 
